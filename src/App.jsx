@@ -48,7 +48,7 @@ function App() {
       setCategories(categoriesData);
 
       toast.success("Products loaded successfully!", {
-        icon: "fa",
+        icon: "🔄",
         style: {
           background: "#10b981",
           color: "#fff",
