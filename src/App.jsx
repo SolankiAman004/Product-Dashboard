@@ -222,6 +222,7 @@ function App() {
     <span className="text-gradient">Hub</span>
   </h1>
 
+  
 </div>
 
             </div>
